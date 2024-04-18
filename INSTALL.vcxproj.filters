@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="S:\openpose\openpose_prosperity\build_GPU\CMakeFiles\b92d22fe00ef92b7193489ec1fc412f7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F16FE055-1019-3B7F-855D-62703E53EC51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
